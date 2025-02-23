@@ -1,11 +1,11 @@
 # ECE319K Final Project
 
-A custom top down shooter game inspired by Stardew Valley and written for Texas Instrument's MSPM0G35077 microcontroller using Code Composer Studio. Made in collaboration with @terrytan23.
+A custom top down shooter game inspired by Stardew Valley and written for Texas Instrument's MSPM0G35077 microcontroller using Code Composer Studio. Made entirely from scratch! 
 
-Please note that (most) visual assets are property of ConcernedApe.
+Watch our demo here: https://youtu.be/CLXkbNx_9Yk
 
 Features:
-- Custom drivers for graphics, audio, controls, and distributed UART system
+- Custom drivers for graphics, audio, controls, and UART multiplayer
 - Singleplayer gamemode
  - Multiple waves of enemies ending with a boss
  - Collectibles and upgrades
@@ -13,7 +13,5 @@ Features:
 - 2 Multiplayer gamemodes
  - Standard PvP
  - Capture the Flag PvP
-
-Watch our demo here: https://youtu.be/CLXkbNx_9Yk
 
 
